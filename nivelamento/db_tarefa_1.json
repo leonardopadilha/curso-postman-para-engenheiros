@@ -1,0 +1,26 @@
+{
+    "pedidos": [
+      {
+        "id": 1,
+        "cliente": "João",
+        "sabor": "Calabresa",
+        "tamanho": "Grande",
+        "status": "Entregue"
+      },
+      {
+        "id": 2,
+        "cliente": "Maria",
+        "sabor": "Quatro Queijos",
+        "tamanho": "Médio",
+        "status": "Preparando"
+      },
+      {
+        "id": 3,
+        "cliente": "Carlos",
+        "sabor": "Margherita",
+        "tamanho": "Pequeno",
+        "status": "Aguardando"
+      }
+    ]
+  }
+  

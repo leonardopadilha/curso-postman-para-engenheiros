@@ -1,0 +1,14 @@
+instalar o newman: npm install -g newman
+instalar o relatório: npm install -g newman-reporter-html
+
+instalar o relatório htmlextra: npm install -g newman-reporter-htmlextra (melhor do que o anterior)
+
+para gerar o relatório htmlextra: newman run primeiro_degrau_produtos.postman_collection.json -e variaveis.json -r htmlextra
+
+para gerar o relatório em uma pasta diferente: newman run primeiro_degrau_produtos.postman_collection.json -e variaveis.json -r html --reporter-html-export "caminho"
+
+para rodar a collection com o newman: newman run primeiro_degrau_produtos.postman_collection.json -e variaveis.json
+
+para rodar a collection com o newman e gerar o relatório: newman run primeiro_degrau_produtos.postman_collection.json -e variaveis.json -r html
+
+Instrução -> O comando em resumo é: newman run <collection> -e <variaveis_ambiente> -r <relatório>

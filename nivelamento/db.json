@@ -1,0 +1,124 @@
+{
+  "cardapio": [
+    {
+      "id": "1",
+      "pizza": "calabresa",
+      "tamanho": "G",
+      "preco": 40
+    },
+    {
+      "id": "3",
+      "pizza": "calabresa",
+      "tamanho": "M",
+      "preco": 29
+    },
+    {
+      "id": "4",
+      "pizza": "Portuguesa",
+      "tamanho": "G",
+      "preco": 40
+    },
+    {
+      "id": "5",
+      "pizza": "Portuguesa",
+      "tamanho": "P",
+      "preco": 17
+    },
+    {
+      "id": "6",
+      "pizza": "Portuguesa",
+      "tamanho": "M",
+      "preco": 29
+    },
+    {
+      "id": "7",
+      "pizza": "4 QUEIJOS",
+      "tamanho": "G",
+      "preco": 40
+    },
+    {
+      "id": "8",
+      "pizza": "4 QUEIJOS",
+      "tamanho": "P",
+      "preco": 17
+    },
+    {
+      "id": "9",
+      "pizza": "4 QUEIJOS",
+      "tamanho": "M",
+      "preco": 29
+    },
+    {
+      "id": "553c",
+      "pizza": "Lombo",
+      "tamanho": "P",
+      "preco": 23.9
+    }
+  ],
+  "ordem": [
+    {
+      "id": "6d45",
+      "id_cliente": "2",
+      "numero_pedido": "2",
+      "info_pizza": {
+        "pizza": "Calabresa",
+        "tamanho": "P",
+        "preco": 15
+      },
+      "telefone_cliente": "985532545",
+      "endereco_cliente": "rua dos testes"
+    },
+    {
+      "id": "d6fd",
+      "id_cliente": "2"
+    },
+    {
+      "id": "6d45-1",
+      "id_cliente": "2",
+      "numero_pedido": "2",
+      "info_pizza": {
+        "pizza": "Calabresa",
+        "tamanho": "P",
+        "preco": 15
+      },
+      "telefone_cliente": "99999999999",
+      "endereco_cliente": "rua dos testes"
+    },
+    {
+      "id": "6d45-1",
+      "id_cliente": "2",
+      "numero_pedido": "2",
+      "info_pizza": {
+        "pizza": "Calabresa",
+        "tamanho": "P",
+        "preco": 15
+      },
+      "telefone_cliente": "99999999999",
+      "endereco_cliente": "rua dos testes"
+    },
+    {
+      "id": "2e4c",
+      "id_cliente": "2",
+      "numero_pedido": "2",
+      "info_pizza": {
+        "pizza": "Calabresa",
+        "tamanho": "P",
+        "preco": 15
+      },
+      "telefone_cliente": "99999999999",
+      "endereco_cliente": "rua dos testes"
+    },
+    {
+      "id": "3aed",
+      "id_cliente": "2",
+      "numero_pedido": "2",
+      "info_pizza": {
+        "pizza": "Calabresa",
+        "tamanho": "P",
+        "preco": 15
+      },
+      "telefone_cliente": "99999999999",
+      "endereco_cliente": "rua dos testes"
+    }
+  ]
+}
