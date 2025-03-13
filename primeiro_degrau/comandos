@@ -12,3 +12,5 @@ para rodar a collection com o newman: newman run primeiro_degrau_produtos.postma
 para rodar a collection com o newman e gerar o relatório: newman run primeiro_degrau_produtos.postman_collection.json -e variaveis.json -r html
 
 Instrução -> O comando em resumo é: newman run <collection> -e <variaveis_ambiente> -r <relatório>
+
+também pode ser executado: newman run postman_collection.json -e postman_environment.json --reporters html,cli --reporter-html-export newman_report.html
